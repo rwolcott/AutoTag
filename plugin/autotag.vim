@@ -40,7 +40,7 @@ vim_global_defaults = dict(maxTagsFileSize = 1024*1024*7,
                            ExcludeSuffixes = "tml.xml.text.txt",
                            VerbosityLevel = logging.WARNING,
                            CtagsCmd = "ctags",
-                           TagsFile = "tags",
+                           TagsFile = "ctags_file",
                            Disabled = 0,
                            StopAt = 0)
 
